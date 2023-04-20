@@ -14,6 +14,5 @@ I am a Front end web developer.<br>On my way to become a full stack soon.<br>Got
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prabuddha03&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
