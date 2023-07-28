@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I am a Front end web developer.<br>On my way to become a full stack soon.<br>Got a keen interest in ML.<br>A UI/UX enthusiast.<br>.<br>Lets connect and collaborate...
+I am a Back-end web developer.<br>A bit experienced in ML, DL.<br>A UI/UX enthusiast.<br>.<br>Lets connect and collaborate...
 
 
 ## 🌐 Socials:
