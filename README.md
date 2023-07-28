@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I am a Back-end web developer.<br>A bit experienced in ML, DL.<br>A UI/UX enthusiast.<br>.<br>Lets connect and collaborate...
+I am a Back-end web developer.<br>Also an enthusiast of Machine Learning<br>Deep Learning<br><br>Lets connect and collaborate...
 
 
 ## 🌐 Socials:
